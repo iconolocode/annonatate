@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-31 22:54:05.055165'
+  iiif: true
+  thumbnail: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00093201_00001/full/120,/0/default.jpg
+  title: ''
+  url: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00093201_00001/info.json
+  user: iconolocode
 settings: {}
 version: '2.1'
