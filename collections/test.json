@@ -8,6 +8,14 @@
             "board": "<iiif-annotation annotationurl='https://iconolocode.github.io/annonatate/annotations/v2-bsb00093201-00001-list.json'></iiif-annotation>",
             "title": "",
             "description": "",
+            "thumbnail": "",
+            "url": "https://iconolocode.github.io/annonatate/annotations/v2-bsb00093201-00001-list.json",
+            "viewtype": "iiif-annotation"
+        },
+        {
+            "board": "<iiif-storyboard url='https://iconolocode.github.io/annonatate/annotations/v2-bsb00093201-00001-list.json' styling='zoom: -1267.0608333333334,0,3683.121666666667,1523;'></iiif-storyboard>",
+            "title": "testnew",
+            "description": "",
             "thumbnail": ""
         }
     ]
