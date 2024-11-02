@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "test",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://iconolocode.github.io/annonatate/annotations/v2-bsb00093201-00001-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
