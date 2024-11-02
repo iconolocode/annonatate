@@ -1,0 +1,33 @@
+---
+canvas: "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00093201_00001/info.json"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "3",
+            "purpose": "commenting",
+            "creator": {
+                "id": "iconolocode",
+                "name": "iconolocode"
+            },
+            "created": "2024-11-02T13:33:22.819Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00093201_00001/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=413.0252990722656,509.19580078125,319.2795715332031,389.00738525390625"
+        }
+    },
+    "id": "1b33b7eb-9aca-4ad5-8242-ed9d482f86c1.json",
+    "motivation": "commenting"
+}
